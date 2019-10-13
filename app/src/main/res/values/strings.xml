@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Blood Donor</string>
+    <string name="name">Name</string>
+    <string name="inputname">Name</string>
+    <string name="inputemail">Email</string>
+    <string name="inputpassword">Password</string>
+    <string name="inputconpassword">Confirm Password</string>
+    <string name="register">REGISTER</string>
+    <string name="loginback">Already Registered?Log in</string>
+    <string name="login">LOGIN</string>
+    <string name="regLink">Create New Account</string>
+    <string name="inputFatherName">Father\'s Name</string>
+    <string name="inputMotherName">Mother\'s Name</string>
+    <string name="inputPhone">Mobile no</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Other">Other</string>
+    <string name="bloodgroup">Blood Group</string>
+    <string name="buttonContinue">CONTINUE</string>
+    <string name="Username">Username</string>
+    <string name="age">Age</string>
+    <string name="healthdetails">Enter Health Details</string>
+    <string name="healthissues">Health Issues(if any)</string>
+    <string name="Allergy">Any Allergy</string>
+</resources>
